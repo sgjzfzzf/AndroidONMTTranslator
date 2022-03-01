@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidONMTTranslator</string>
+    <string name="text">Text Translation</string>
+    <string name="image">Image Translation</string>
+    <string name="about_us">About Us</string>
+    <string name="camera">Camera</string>
+    <string name="local_image">Local Image</string>
+    <string name="fragment">Fragment Container</string>
+    <string name="tab">Tab</string>
+</resources>

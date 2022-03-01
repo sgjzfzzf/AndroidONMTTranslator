@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="allowed_languages">
+        <item>Chinese</item>
+        <item>English</item>
+        <item>Polish</item>
+        <item>Romanian</item>
+        <item>Czech</item>
+        <item>Greek</item>
+        <item>Hungary</item>
+        <item>Bulgarian</item>
+        <item>Latvian</item>
+        <item>Lithuanian</item>
+        <item>Arabic</item>
+        <item>Russian</item>
+        <item>Hindi</item>
+        <item>Hebrew</item>
+        <item>Bengalese</item>
+        <item>Malaysian</item>
+        <item>Farsi</item>
+        <item>Indonesian</item>
+        <item>Slovenian</item>
+        <item>Serbian</item>
+        <item>Turkish</item>
+        <item>Slovak</item>
+        <item>Vietnamese</item>
+        <item>Thai</item>
+    </string-array>
+
+    <string-array name="flags">
+        <item>zh</item>
+        <item>en</item>
+        <item>pl</item>
+        <item>rom</item>
+        <item>cs</item>
+        <item>el</item>
+        <item>hu</item>
+        <item>bul</item>
+        <item>lav</item>
+        <item>lit</item>
+        <item>ara</item>
+        <item>ru</item>
+        <item>hi</item>
+        <item>heb</item>
+        <item>ben</item>
+        <item>may</item>
+        <item>per</item>
+        <item>id</item>
+        <item>slo</item>
+        <item>srp</item>
+        <item>tr</item>
+        <item>sk</item>
+        <item>vie</item>
+        <item>th</item>
+    </string-array>
+
+</resources>
